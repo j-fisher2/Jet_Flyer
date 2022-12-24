@@ -1,0 +1,9 @@
+#game_screen{
+    border:2px solid blue;
+    background:url("cloud_background.webp");
+    background-position:30% 50%;
+    background-size: 1200px 600px;
+}
+img{
+    display:none;
+}
